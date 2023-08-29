@@ -3,4 +3,13 @@ table, tr,td{
 	border:1px solid black;
 	border-spacing:1px;
 	padding:1px;
+	
 }
+table{
+	width: 100%;
+}
+tr,td{
+	text-align:center;
+}
+tr
+
